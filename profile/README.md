@@ -13,6 +13,8 @@ to the projects here.
 |---|---|
 | [packer](https://github.com/jameskilbycloud/packer) | Automated Ubuntu LTS golden-image pipeline for vSphere — Packer + GitHub Actions. Six templates: 22.04 / 24.04 / 26.04, server + desktop. |
 | [jkcoukblog](https://github.com/jameskilbycloud/jkcoukblog) | WordPress → static site automation. |
+| [AgileBatteryPredicter](https://github.com/jameskilbycloud/AgileBatteryPredicter) | Pulls Octopus Agile half-hourly data and models UK home battery savings (degradation, IRR, solar + SEG). |
+| [MacSetup](https://github.com/jameskilbycloud/MacSetup) | Shell scripts for setting up a factory-fresh Mac — Homebrew formulae / casks, App Store, sane defaults. |
 
 ## Scope and expectations
 
