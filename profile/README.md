@@ -7,7 +7,7 @@
 **Focus:** AWS-based Hyper-Scaler Solutions & Enterprise Cloud Architecture
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jameskilbynet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=jameskilbycloud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://twitter.com/jameskilbynet" target="blank">
     <img src="https://img.shields.io/twitter/follow/jameskilbynet?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
@@ -43,32 +43,41 @@
 
 ## 📈 Featured Projects
 
-### 🏗️ [Infrastructure as Code (IaC)](https://github.com/jameskilbynet/iac)
-Comprehensive automation suite for VMware vSphere environments
-- **Technologies:** Terraform, Ansible, Packer, PowerShell
-- **Features:** VM provisioning, configuration management, template creation
-- **Integration:** Semaphore UI for automated deployments
+### 🏗️ [packer](https://github.com/jameskilbycloud/packer)
+Automated Ubuntu LTS golden-image pipeline for vSphere
+- **Technologies:** HashiCorp Packer, GitHub Actions, vSphere, cloud-init
+- **Features:** Six templates — 22.04 / 24.04 / 26.04, server + desktop — built end-to-end on a self-hosted runner
+- **Validation:** Goss smoke tests, weekly auto-rebuilds, ISO drift detection, retention pruning
 
-### 🖥️ [MacSetup](https://github.com/jameskilbynet/MacSetup)
-Automated macOS development environment setup and configuration
-- **Technologies:** Shell scripts, Homebrew, automation tools
-- **Features:** Development tools installation, system preferences, productivity setup
-- **Purpose:** Reproducible development environment configuration
+### ⚡ [AgileBatteryPredicter](https://github.com/jameskilbycloud/AgileBatteryPredicter)
+Octopus Agile data → UK home-battery savings model
+- **Technologies:** Python, Octopus Kraken GraphQL + REST APIs
+- **Features:** Five battery systems modelled with degradation, round-trip efficiency, warranty cycles
+- **Analysis:** 15-year net profit + IRR, solar (3/4/6 kWp) + SEG export earnings
+
+### 🖥️ [MacSetup](https://github.com/jameskilbycloud/MacSetup)
+Automated macOS development environment setup
+- **Technologies:** Shell scripts, Homebrew, mas-cli
+- **Features:** Formulae / casks / App Store apps from a single config, robust per-package error handling
+- **Purpose:** Reproducible factory-fresh Mac in one command
+
+### 📝 [jkcoukblog](https://github.com/jameskilbycloud/jkcoukblog)
+WordPress → static site automation pipeline for [jameskilby.co.uk](https://jameskilby.co.uk)
 
 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jameskilbynet&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameskilbynet&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jameskilbycloud&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameskilbycloud&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jameskilbynet&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jameskilbycloud&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jameskilbynet&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jameskilbycloud&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ## 🌐 Connect With Me
